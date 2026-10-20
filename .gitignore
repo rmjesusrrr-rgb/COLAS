@@ -1,0 +1,10 @@
+# Archivos compilados Java
+*.class
+bin/
+out/
+ejercicio_ed_2_discoduroderoer/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.iml
